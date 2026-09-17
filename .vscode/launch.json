@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Flutter App",
+            "request": "launch",
+            "type": "dart",
+            "cwd": "${workspaceFolder}/csms-main",
+            "program": "${workspaceFolder}/csms-main/lib/main.dart"
+        }
+    ]
+}
